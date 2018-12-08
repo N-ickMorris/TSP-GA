@@ -13,7 +13,7 @@ import itertools
 # load the data in as a multidimensional array
     # coord is the coordinates of each location, 48 USA Locations
 
-coord = np.loadtxt('C:\\Users\\Nick\\Desktop\\TSP.txt', dtype = 'int32')
+coord = np.loadtxt('C:\\ ... \\TSP.txt', dtype = 'int32')
 
 # lets extract the second and third columns in coord
     # these values represent the coordinate position of each location
